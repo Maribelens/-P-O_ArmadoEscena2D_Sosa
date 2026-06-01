@@ -43,16 +43,24 @@ SpriteAtlas:
     - {fileID: 21300000, guid: 9189f451796801d44a82b50ec4680ff0, type: 3}
     - {fileID: 21300000, guid: aa1a2c9a2a7058f4689c11e59696f0eb, type: 3}
     - {fileID: 21300000, guid: 3c2afb4a188cff1468ee524074b5d621, type: 3}
+    - {fileID: 21300000, guid: c5269cd9fafdf3c49a335910bfd71c1f, type: 3}
+    - {fileID: 21300000, guid: 8b47b9b3e42d96b4a8a07ac6555473d9, type: 3}
+    - {fileID: 21300000, guid: d3b7155a6c5a07b42984d59c49add796, type: 3}
+    - {fileID: 21300000, guid: 3d7f0771f2d46734d8d27f42f1254f14, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
     packedSpriteRenderDataKeys:
     - 38fbf130c0bf94542891035fb32c094d: 21300000
     - 9189f451796801d44a82b50ec4680ff0: 21300000
+    - 3d7f0771f2d46734d8d27f42f1254f14: 21300000
+    - 8b47b9b3e42d96b4a8a07ac6555473d9: 21300000
     - 656fa486e5b5b844c85f3f8cb8733633: 21300000
     - 6abebd084a8400a4db7512296807e4e2: 21300000
     - 57c592c9884cc6648a6484cce65c7e45: 21300000
+    - c5269cd9fafdf3c49a335910bfd71c1f: 21300000
     - 3c2afb4a188cff1468ee524074b5d621: 21300000
+    - d3b7155a6c5a07b42984d59c49add796: 21300000
     - aa1a2c9a2a7058f4689c11e59696f0eb: 21300000
     - 2f1c2e6b58f796f40a485713c96dd280: 21300000
     - a381928c1cb115d4dbf3022b20fa7781: 21300000
@@ -62,10 +70,14 @@ SpriteAtlas:
   m_PackedSprites:
   - {fileID: 21300000, guid: 38fbf130c0bf94542891035fb32c094d, type: 3}
   - {fileID: 21300000, guid: 9189f451796801d44a82b50ec4680ff0, type: 3}
+  - {fileID: 21300000, guid: 3d7f0771f2d46734d8d27f42f1254f14, type: 3}
+  - {fileID: 21300000, guid: 8b47b9b3e42d96b4a8a07ac6555473d9, type: 3}
   - {fileID: 21300000, guid: 656fa486e5b5b844c85f3f8cb8733633, type: 3}
   - {fileID: 21300000, guid: 6abebd084a8400a4db7512296807e4e2, type: 3}
   - {fileID: 21300000, guid: 57c592c9884cc6648a6484cce65c7e45, type: 3}
+  - {fileID: 21300000, guid: c5269cd9fafdf3c49a335910bfd71c1f, type: 3}
   - {fileID: 21300000, guid: 3c2afb4a188cff1468ee524074b5d621, type: 3}
+  - {fileID: 21300000, guid: d3b7155a6c5a07b42984d59c49add796, type: 3}
   - {fileID: 21300000, guid: aa1a2c9a2a7058f4689c11e59696f0eb, type: 3}
   - {fileID: 21300000, guid: 2f1c2e6b58f796f40a485713c96dd280, type: 3}
   - {fileID: 21300000, guid: a381928c1cb115d4dbf3022b20fa7781, type: 3}
@@ -74,10 +86,14 @@ SpriteAtlas:
   m_PackedSpriteNamesToIndex:
   - coins
   - icon_event_currency
+  - button_vibration
+  - button_music
   - event_currency
   - icon_coins
   - barra_verde
+  - button_info
   - symbol_plus
+  - button_sfx
   - icon_gems
   - button_close
   - cartel_madera

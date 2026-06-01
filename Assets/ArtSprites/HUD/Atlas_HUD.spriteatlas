@@ -42,6 +42,7 @@ SpriteAtlas:
     - {fileID: 21300000, guid: 3de704669a5590e449520a2cc396c480, type: 3}
     - {fileID: 21300000, guid: 8520192c4f93c4c4aab96ddd31611b2f, type: 3}
     - {fileID: 21300000, guid: 614c6d3674f37604bbf1ee87a74a649e, type: 3}
+    - {fileID: 21300000, guid: dd9d9dfca447e1041a1f1d6bd37c2daa, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -55,6 +56,7 @@ SpriteAtlas:
     - efcf3aa6bb0a747449ceaf18c3d13971: 21300000
     - 31f96258696fdff43a541fe19e30ce97: 21300000
     - 8520192c4f93c4c4aab96ddd31611b2f: 21300000
+    - dd9d9dfca447e1041a1f1d6bd37c2daa: 21300000
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 4045aad1d5492e146a59046430cb1df4, type: 3}
@@ -66,6 +68,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: efcf3aa6bb0a747449ceaf18c3d13971, type: 3}
   - {fileID: 21300000, guid: 31f96258696fdff43a541fe19e30ce97, type: 3}
   - {fileID: 21300000, guid: 8520192c4f93c4c4aab96ddd31611b2f, type: 3}
+  - {fileID: 21300000, guid: dd9d9dfca447e1041a1f1d6bd37c2daa, type: 3}
   m_PackedSpriteNamesToIndex:
   - button_settings
   - button_inventory
@@ -76,6 +79,7 @@ SpriteAtlas:
   - barra_vida
   - elemento_rayo
   - icono_pokemon
+  - joystick
   m_RenderDataMap: {}
   m_Tag: Atlas_HUD
   m_IsVariant: 0
