@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_HUD
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 614c6d3674f37604bbf1ee87a74a649e, type: 3}
+    - {fileID: 21300000, guid: efcf3aa6bb0a747449ceaf18c3d13971, type: 3}
+    - {fileID: 21300000, guid: ef34529370cf6644ea643f3b438bbf91, type: 3}
+    - {fileID: 21300000, guid: 4045aad1d5492e146a59046430cb1df4, type: 3}
+    - {fileID: 21300000, guid: 0a626ae5ed03f924ebc7a33059968623, type: 3}
+    - {fileID: 21300000, guid: 31f96258696fdff43a541fe19e30ce97, type: 3}
+    - {fileID: 21300000, guid: 35eeb195f4007c04eb24dc833153fde0, type: 3}
+    - {fileID: 21300000, guid: 3de704669a5590e449520a2cc396c480, type: 3}
+    - {fileID: 21300000, guid: 8520192c4f93c4c4aab96ddd31611b2f, type: 3}
+    - {fileID: 21300000, guid: 614c6d3674f37604bbf1ee87a74a649e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 4045aad1d5492e146a59046430cb1df4: 21300000
+    - ef34529370cf6644ea643f3b438bbf91: 21300000
+    - 35eeb195f4007c04eb24dc833153fde0: 21300000
+    - 0a626ae5ed03f924ebc7a33059968623: 21300000
+    - 614c6d3674f37604bbf1ee87a74a649e: 21300000
+    - 3de704669a5590e449520a2cc396c480: 21300000
+    - efcf3aa6bb0a747449ceaf18c3d13971: 21300000
+    - 31f96258696fdff43a541fe19e30ce97: 21300000
+    - 8520192c4f93c4c4aab96ddd31611b2f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4045aad1d5492e146a59046430cb1df4, type: 3}
+  - {fileID: 21300000, guid: ef34529370cf6644ea643f3b438bbf91, type: 3}
+  - {fileID: 21300000, guid: 35eeb195f4007c04eb24dc833153fde0, type: 3}
+  - {fileID: 21300000, guid: 0a626ae5ed03f924ebc7a33059968623, type: 3}
+  - {fileID: 21300000, guid: 614c6d3674f37604bbf1ee87a74a649e, type: 3}
+  - {fileID: 21300000, guid: 3de704669a5590e449520a2cc396c480, type: 3}
+  - {fileID: 21300000, guid: efcf3aa6bb0a747449ceaf18c3d13971, type: 3}
+  - {fileID: 21300000, guid: 31f96258696fdff43a541fe19e30ce97, type: 3}
+  - {fileID: 21300000, guid: 8520192c4f93c4c4aab96ddd31611b2f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_settings
+  - button_inventory
+  - flecha_shop
+  - button_videoAd
+  - level
+  - fondo_avatar
+  - barra_vida
+  - elemento_rayo
+  - icono_pokemon
+  m_RenderDataMap: {}
+  m_Tag: Atlas_HUD
+  m_IsVariant: 0
